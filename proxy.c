@@ -5,11 +5,8 @@ Date: October 1, 2021
 */
 /*
 References:
-http://pages.cpsc.ucalgary.ca/~carey/CPSC441/examples/testserver.c // parts of Dr. Carey's server code used to create main server-side of Proxy
-https://d2l.ucalgary.ca/d2l/le/content/401094/viewContent/4896480/View // TA's notes presented on HTTP used in server and client side of Proxy
 https://www.geeksforgeeks.org/socket-programming-cc/ //Used in secondary server to telnet to Proxy
 https://www.binarytides.com/socket-programming-c-linux-tutorial/ //Used in creating client-side of Proxy
-https://sites.google.com/view/sinacpsc441/content //Sina Keshvadi's notes used to understand the required Proxy contents
 https://www.binarytides.com/hostname-to-ip-address-c-sockets-linux/ //Used to retrieve the ip address of hostname url
 */
 
